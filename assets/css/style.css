@@ -23,3 +23,19 @@ h1, h2 {
 p{
     font-family: var(--primary-font);
 }
+
+/* Footer */
+#footer {
+  background-color: var(--secondary-color);
+}
+
+#footer h2{
+  color: white;
+  font-family: var(--secondary-font);
+}
+
+#footer p{
+  color: white;
+  font-family: var(--primary-font);
+}
+
