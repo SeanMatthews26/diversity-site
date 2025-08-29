@@ -68,6 +68,10 @@ body {
   margin-bottom: 2rem;
 }
 
+#resources a{
+  color: var(--highlight-color-light);
+}
+
 /* Footer */
 #footer {
   background-color: var(--primary-color);
